@@ -1,0 +1,15 @@
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\bin\Debug\netcoreapp3.1\Harjoitus4.exe
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\bin\Debug\netcoreapp3.1\Harjoitus4.deps.json
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\bin\Debug\netcoreapp3.1\Harjoitus4.runtimeconfig.json
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\bin\Debug\netcoreapp3.1\Harjoitus4.runtimeconfig.dev.json
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\bin\Debug\netcoreapp3.1\Harjoitus4.dll
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\bin\Debug\netcoreapp3.1\Harjoitus4.pdb
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.csprojAssemblyReference.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.Form1.resources
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.csproj.GenerateResource.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.AssemblyInfoInputs.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.AssemblyInfo.cs
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.dll
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.pdb
+C:\Users\Virtual_machine\source\repos\Harjoitus4\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.genruntimeconfig.cache
