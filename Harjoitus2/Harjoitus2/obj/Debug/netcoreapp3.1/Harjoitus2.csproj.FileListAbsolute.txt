@@ -1,0 +1,15 @@
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.exe
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.deps.json
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.runtimeconfig.json
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.runtimeconfig.dev.json
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.dll
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.pdb
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.csprojAssemblyReference.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.Harjoitus2.resources
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.csproj.GenerateResource.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.AssemblyInfoInputs.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.AssemblyInfo.cs
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.dll
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.pdb
+C:\Users\Virtual_machine\source\repos\Harjoitus2\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.genruntimeconfig.cache
