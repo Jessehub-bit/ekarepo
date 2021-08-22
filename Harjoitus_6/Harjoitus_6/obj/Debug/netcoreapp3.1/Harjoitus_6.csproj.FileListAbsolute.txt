@@ -1,0 +1,16 @@
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\bin\Debug\netcoreapp3.1\Harjoitus_6.exe
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\bin\Debug\netcoreapp3.1\Harjoitus_6.deps.json
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\bin\Debug\netcoreapp3.1\Harjoitus_6.runtimeconfig.json
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\bin\Debug\netcoreapp3.1\Harjoitus_6.runtimeconfig.dev.json
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\bin\Debug\netcoreapp3.1\Harjoitus_6.dll
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\bin\Debug\netcoreapp3.1\Harjoitus_6.pdb
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.csproj.AssemblyReference.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.SalasanaForm.resources
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.csproj.GenerateResource.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.AssemblyInfoInputs.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.AssemblyInfo.cs
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.csproj.CoreCompileInputs.cache
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.dll
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.pdb
+C:\Users\Virtual_machine\source\repos\Harjoitus_6\Harjoitus_6\obj\Debug\netcoreapp3.1\Harjoitus_6.genruntimeconfig.cache
