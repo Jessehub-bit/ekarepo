@@ -1,0 +1,16 @@
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\bin\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.exe
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\bin\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.deps.json
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\bin\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.runtimeconfig.json
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\bin\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.runtimeconfig.dev.json
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\bin\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.dll
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\bin\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.pdb
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.csproj.AssemblyReference.cache
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä_7___Autokululaskuri.Form1.resources
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.csproj.GenerateResource.cache
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.AssemblyInfoInputs.cache
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.AssemblyInfo.cs
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.dll
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.pdb
+C:\Users\Virtual_machine\source\repos\Tehtävä 7 - Autokululaskuri\Tehtävä 7 - Autokululaskuri\obj\Debug\netcoreapp3.1\Tehtävä 7 - Autokululaskuri.genruntimeconfig.cache
