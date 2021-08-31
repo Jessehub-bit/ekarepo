@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Heitä noppaa/1.0.0": {
+        "runtime": {
+          "Heitä noppaa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Heitä noppaa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

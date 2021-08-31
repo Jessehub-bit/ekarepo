@@ -1,0 +1,17 @@
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\bin\Debug\netcoreapp3.1\Heitä noppaa.exe
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\bin\Debug\netcoreapp3.1\Heitä noppaa.deps.json
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\bin\Debug\netcoreapp3.1\Heitä noppaa.runtimeconfig.json
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\bin\Debug\netcoreapp3.1\Heitä noppaa.runtimeconfig.dev.json
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\bin\Debug\netcoreapp3.1\Heitä noppaa.dll
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\bin\Debug\netcoreapp3.1\Heitä noppaa.pdb
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä noppaa.csproj.AssemblyReference.cache
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä_noppaa.Form1.resources
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä_noppaa.Properties.Resources.resources
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä noppaa.csproj.GenerateResource.cache
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä noppaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä noppaa.AssemblyInfoInputs.cache
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä noppaa.AssemblyInfo.cs
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä noppaa.csproj.CoreCompileInputs.cache
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä noppaa.dll
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä noppaa.pdb
+C:\Users\Hotsku\source\repos\Heitä noppaa\Heitä noppaa\obj\Debug\netcoreapp3.1\Heitä noppaa.genruntimeconfig.cache
