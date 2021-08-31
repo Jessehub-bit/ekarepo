@@ -1,0 +1,16 @@
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\10 kysymystä.csproj.AssemblyReference.cache
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\_10_kysymystä.Form1.resources
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\10 kysymystä.csproj.GenerateResource.cache
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\10 kysymystä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\10 kysymystä.AssemblyInfoInputs.cache
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\10 kysymystä.AssemblyInfo.cs
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\10 kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\bin\Debug\netcoreapp3.1\10 kysymystä.exe
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\bin\Debug\netcoreapp3.1\10 kysymystä.deps.json
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\bin\Debug\netcoreapp3.1\10 kysymystä.runtimeconfig.json
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\bin\Debug\netcoreapp3.1\10 kysymystä.runtimeconfig.dev.json
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\bin\Debug\netcoreapp3.1\10 kysymystä.dll
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\bin\Debug\netcoreapp3.1\10 kysymystä.pdb
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\10 kysymystä.dll
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\10 kysymystä.pdb
+C:\Users\Hotsku\source\repos\10 kysymystä\10 kysymystä\obj\Debug\netcoreapp3.1\10 kysymystä.genruntimeconfig.cache
