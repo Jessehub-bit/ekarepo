@@ -1,0 +1,17 @@
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\bin\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.exe
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\bin\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.deps.json
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\bin\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.runtimeconfig.json
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\bin\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.runtimeconfig.dev.json
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\bin\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.dll
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\bin\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.pdb
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.csproj.AssemblyReference.cache
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä_8___Roomalaiset_nrot.Form1.resources
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.csproj.GenerateResource.cache
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.AssemblyInfoInputs.cache
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.AssemblyInfo.cs
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.csproj.CoreCompileInputs.cache
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.dll
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.pdb
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä 8 – Roomalaiset nrot.genruntimeconfig.cache
+C:\Users\Hotsku\source\repos\Tehtävä 8 – Roomalaiset nrot\Tehtävä 8 – Roomalaiset nrot\obj\Debug\netcoreapp3.1\Tehtävä_8___Roomalaiset_nrot.Properties.Resources.resources
