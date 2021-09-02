@@ -1,0 +1,10 @@
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\obj\Debug\13.Tehtävä onko nimesi suosittujen joukossa.csprojAssemblyReference.cache
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\obj\Debug\_13.Tehtävä_onko_nimesi_suosittujen_joukossa.Form1.resources
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\obj\Debug\_13.Tehtävä_onko_nimesi_suosittujen_joukossa.Properties.Resources.resources
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\obj\Debug\13.Tehtävä onko nimesi suosittujen joukossa.csproj.GenerateResource.cache
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\obj\Debug\13.Tehtävä onko nimesi suosittujen joukossa.csproj.CoreCompileInputs.cache
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\bin\Debug\13.Tehtävä onko nimesi suosittujen joukossa.exe.config
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\bin\Debug\13.Tehtävä onko nimesi suosittujen joukossa.exe
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\bin\Debug\13.Tehtävä onko nimesi suosittujen joukossa.pdb
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\obj\Debug\13.Tehtävä onko nimesi suosittujen joukossa.exe
+C:\Users\jesse.hotarinen\source\repos\13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa\obj\Debug\13.Tehtävä onko nimesi suosittujen joukossa.pdb

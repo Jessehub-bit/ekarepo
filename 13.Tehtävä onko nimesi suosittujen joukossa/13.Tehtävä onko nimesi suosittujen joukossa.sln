@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Tehtävä onko nimesi suosittujen joukossa", "13.Tehtävä onko nimesi suosittujen joukossa\13.Tehtävä onko nimesi suosittujen joukossa.csproj", "{B2A7D106-9F8C-4F4B-9BE2-FA66B35C92DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A7D106-9F8C-4F4B-9BE2-FA66B35C92DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A7D106-9F8C-4F4B-9BE2-FA66B35C92DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A7D106-9F8C-4F4B-9BE2-FA66B35C92DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A7D106-9F8C-4F4B-9BE2-FA66B35C92DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663FF56A-36E4-4760-B9CC-FF37333FCE00}
+	EndGlobalSection
+EndGlobal
