@@ -1,0 +1,16 @@
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\bin\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.exe
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\bin\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.deps.json
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\bin\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.runtimeconfig.json
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\bin\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.runtimeconfig.dev.json
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\bin\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.dll
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\bin\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.pdb
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.csproj.AssemblyReference.cache
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\_16._Tehtävä___Ajastin.Form1.resources
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.csproj.GenerateResource.cache
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.AssemblyInfoInputs.cache
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.AssemblyInfo.cs
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.dll
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.pdb
+C:\Users\Hotsku\source\repos\16. Tehtävä - Ajastin\16. Tehtävä - Ajastin\obj\Debug\netcoreapp3.1\16. Tehtävä - Ajastin.genruntimeconfig.cache
