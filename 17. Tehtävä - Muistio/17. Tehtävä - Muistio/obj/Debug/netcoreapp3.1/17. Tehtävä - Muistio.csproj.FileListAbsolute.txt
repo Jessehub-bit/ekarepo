@@ -1,0 +1,16 @@
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\bin\Debug\netcoreapp3.1\17. Tehtävä - Muistio.exe
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\bin\Debug\netcoreapp3.1\17. Tehtävä - Muistio.deps.json
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\bin\Debug\netcoreapp3.1\17. Tehtävä - Muistio.runtimeconfig.json
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\bin\Debug\netcoreapp3.1\17. Tehtävä - Muistio.runtimeconfig.dev.json
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\bin\Debug\netcoreapp3.1\17. Tehtävä - Muistio.dll
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\bin\Debug\netcoreapp3.1\17. Tehtävä - Muistio.pdb
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\17. Tehtävä - Muistio.csproj.AssemblyReference.cache
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\_17._Tehtävä___Muistio.NotepadForm.resources
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\17. Tehtävä - Muistio.csproj.GenerateResource.cache
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\17. Tehtävä - Muistio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\17. Tehtävä - Muistio.AssemblyInfoInputs.cache
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\17. Tehtävä - Muistio.AssemblyInfo.cs
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\17. Tehtävä - Muistio.csproj.CoreCompileInputs.cache
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\17. Tehtävä - Muistio.dll
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\17. Tehtävä - Muistio.pdb
+C:\Users\Hotsku\source\repos\17. Tehtävä - Muistio\17. Tehtävä - Muistio\obj\Debug\netcoreapp3.1\17. Tehtävä - Muistio.genruntimeconfig.cache

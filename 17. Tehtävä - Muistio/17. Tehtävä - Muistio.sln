@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Tehtävä - Muistio", "17. Tehtävä - Muistio\17. Tehtävä - Muistio.csproj", "{AC8C807C-C5CB-4C42-884C-E5AFEFA92679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8C807C-C5CB-4C42-884C-E5AFEFA92679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8C807C-C5CB-4C42-884C-E5AFEFA92679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8C807C-C5CB-4C42-884C-E5AFEFA92679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8C807C-C5CB-4C42-884C-E5AFEFA92679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A9B617F-A7DD-494A-9C1D-7C4DEC551A6C}
+	EndGlobalSection
+EndGlobal
