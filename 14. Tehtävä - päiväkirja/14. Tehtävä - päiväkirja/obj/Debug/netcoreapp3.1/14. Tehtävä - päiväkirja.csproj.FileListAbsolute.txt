@@ -1,0 +1,16 @@
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\bin\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.exe
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\bin\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.deps.json
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\bin\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.runtimeconfig.json
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\bin\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.runtimeconfig.dev.json
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\bin\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.dll
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\bin\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.pdb
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.csproj.AssemblyReference.cache
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\_14._Tehtävä___päiväkirja.Form1.resources
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.csproj.GenerateResource.cache
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.AssemblyInfoInputs.cache
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.AssemblyInfo.cs
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.csproj.CoreCompileInputs.cache
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.dll
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.pdb
+C:\Users\Hotsku\source\repos\14. Tehtävä - päiväkirja\14. Tehtävä - päiväkirja\obj\Debug\netcoreapp3.1\14. Tehtävä - päiväkirja.genruntimeconfig.cache
