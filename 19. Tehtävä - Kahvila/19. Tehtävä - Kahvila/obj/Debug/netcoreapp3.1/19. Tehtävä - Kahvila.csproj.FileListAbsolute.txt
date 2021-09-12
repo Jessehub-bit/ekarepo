@@ -1,0 +1,17 @@
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\bin\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.exe
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\bin\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.deps.json
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\bin\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.runtimeconfig.json
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\bin\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.runtimeconfig.dev.json
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\bin\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.dll
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\bin\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.pdb
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.csproj.AssemblyReference.cache
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\_19._Tehtävä___Kahvila.RuokalistaForm.resources
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\_19._Tehtävä___Kahvila.Properties.Resources.resources
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.csproj.GenerateResource.cache
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.AssemblyInfoInputs.cache
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.AssemblyInfo.cs
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.csproj.CoreCompileInputs.cache
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.dll
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.pdb
+C:\Users\Hotsku\source\repos\19. Tehtävä - Kahvila\19. Tehtävä - Kahvila\obj\Debug\netcoreapp3.1\19. Tehtävä - Kahvila.genruntimeconfig.cache
