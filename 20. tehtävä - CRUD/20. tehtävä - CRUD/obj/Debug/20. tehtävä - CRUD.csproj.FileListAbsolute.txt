@@ -1,0 +1,5 @@
+C:\Users\Hotsku\source\repos\20. tehtävä - CRUD\20. tehtävä - CRUD\obj\Debug\20. tehtävä - CRUD.csproj.AssemblyReference.cache
+C:\Users\Hotsku\source\repos\20. tehtävä - CRUD\20. tehtävä - CRUD\obj\Debug\_20.tehtävä___CRUD.Form1.resources
+C:\Users\Hotsku\source\repos\20. tehtävä - CRUD\20. tehtävä - CRUD\obj\Debug\_20.tehtävä___CRUD.Properties.Resources.resources
+C:\Users\Hotsku\source\repos\20. tehtävä - CRUD\20. tehtävä - CRUD\obj\Debug\20. tehtävä - CRUD.csproj.GenerateResource.cache
+C:\Users\Hotsku\source\repos\20. tehtävä - CRUD\20. tehtävä - CRUD\obj\Debug\20. tehtävä - CRUD.csproj.CoreCompileInputs.cache
